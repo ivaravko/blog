@@ -1,0 +1,3 @@
+[submodule ".themes/fuzzy"]
+	path = .themes/fuzzy
+	url = https://github.com/tobinbradley/fuzzy-tolerance-octopress-theme.git
