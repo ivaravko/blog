@@ -3,7 +3,7 @@ layout: post
 title: "Сравнение Active Record скоупов и методов класса"
 date: 2013-03-28 05:40
 comments: true
-categories:
+categories: [activerecord, rails, scopes, class methods]
 footer: true
 
 ---
